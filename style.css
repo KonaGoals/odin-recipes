@@ -19,7 +19,17 @@ h1 {
 h3 {
     margin-bottom: -100px;
 }
-a {
+.lasagnahref {
     color: gold;
     font-size: 22px;
+}
+.indexbody{
+    background-image: url(Seoul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.indexhref {
+    color: gold;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
